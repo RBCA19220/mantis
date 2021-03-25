@@ -1,0 +1,9 @@
+manage- create project - project 4
+add category- registration(edit and delete)
+add description
+manage - manage users - create new account
+manage users- use one account- impersonate user - then log out and login in administrator
+
+manage user - tester add details -assign to developer - logout -administrator - impersonate developer - edit assigned project and edit adn write bug is genuine
+
+from developer change from acknowleged to confirmed ... then after few days change from confirmed to resolve and change resolution from open to fixed
